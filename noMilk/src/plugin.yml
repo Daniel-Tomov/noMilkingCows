@@ -1,0 +1,8 @@
+name: noMilking
+version: 1.0
+main: me.cageydinosaur.nomilk.Main
+api-version: 1.16
+commands:
+  nomilk:
+    usage: /nomilk
+    description: Shows help for this plugin
