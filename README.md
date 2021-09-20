@@ -5,4 +5,5 @@ Made based off a plugin request on the Bukkit Forums: https://bukkit.org/threads
 
 # Commands:
 /nomilk true  -  Enables the milking of cows
+
 /nomilk false  -  Disables the milking of cows
