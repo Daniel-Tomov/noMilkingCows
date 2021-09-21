@@ -10,5 +10,7 @@ Made based off a plugin request on the Bukkit Forums: https://bukkit.org/threads
 
 # Permissions:
 nomilk  -  Main command (shows help)
+
 nomilk.use  -  Use the commands
+
 nomilk.toggle  -  Use TabCompletion
